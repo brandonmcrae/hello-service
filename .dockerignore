@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.out
+/hello-service
+Dockerfile
+.dockerignore
+README.md
