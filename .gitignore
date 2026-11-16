@@ -9,3 +9,10 @@
 crash.log
 *.auto.tfvars
 terraform.tfvars
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
